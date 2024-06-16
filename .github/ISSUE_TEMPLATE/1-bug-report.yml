@@ -39,8 +39,8 @@ body:
       description: |
         What steps can we follow to reproduce the issue?
       placeholder: |
-        1. `bl install`
-        2. `bl start:dev`
+        1. `bun install`
+        2. `bun dev`
         3. See error...
 
   - type: dropdown
