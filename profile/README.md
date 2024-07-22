@@ -9,7 +9,7 @@ We are always looking for contributors to help us improve our projects. If you a
 ### 📬 Contact
 
 If you have any questions or need further assistance, feel free to reach out to us:
-- 📧 Email: [contact@briojs.org](mailto:briojs.contact@gmail.com)
+- 📧 Email: [briojs.contact@gmail.com](mailto:briojs.contact@gmail.com)
 - 📢 Text us on [Twitter](https://x.com/briojs)
 - 💬 [Join our Discord server](https://discord.gg/PjDUWPVbDK)
 
